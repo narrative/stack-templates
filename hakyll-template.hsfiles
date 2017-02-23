@@ -19,7 +19,7 @@ executable {{name}}
   default-language:    Haskell2010
   ghc-options:         -threaded
   build-depends:       base == 4.*,
-                       hakyll == 4.7.*
+                       hakyll == 4.*
 
 {-# START_FILE .gitignore #-}
 # Created by https://www.gitignore.io/api/haskell
